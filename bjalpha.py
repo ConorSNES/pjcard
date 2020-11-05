@@ -559,5 +559,5 @@ sp\tStarts singleplayer rootloop'''
                     terminalGame.dbg.devsequence()
 
 
-terminalGame.dbg.rootLoop()
+terminalGame.sp.rootLoop()
         
