@@ -11,6 +11,7 @@ Project card is an open source rendition of the card game blackjack, written in 
 - Game does not end
 - 'playAsBanker' option key does not work
   - Temporary fix, do not change from True
+- 'players' options key can be used to set the amount of players to more than the physical amount of cards in the deck
 
 ## Todo
 - [x] Get the game to work
